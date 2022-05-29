@@ -1,0 +1,1428 @@
+fileFormatVersion: 2
+guid: b944ce9c3abfb3245935151aa834ba37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4548663301591113600
+    second: SpriteAvanceSemanalPapel_0
+  - first:
+      213: -3324687767209458702
+    second: SpriteAvanceSemanalPapel_1
+  - first:
+      213: 6812545354009515729
+    second: SpriteAvanceSemanalPapel_2
+  - first:
+      213: 7067010805283021507
+    second: SpriteAvanceSemanalPapel_3
+  - first:
+      213: 5937982155292808332
+    second: SpriteAvanceSemanalPapel_4
+  - first:
+      213: -331582187890152390
+    second: SpriteAvanceSemanalPapel_5
+  - first:
+      213: 7299573566460059167
+    second: SpriteAvanceSemanalPapel_6
+  - first:
+      213: 7182261073097726452
+    second: SpriteAvanceSemanalPapel_7
+  - first:
+      213: 3902669212942582335
+    second: SpriteAvanceSemanalPapel_8
+  - first:
+      213: 2596816997838189132
+    second: SpriteAvanceSemanalPapel_9
+  - first:
+      213: 6742888422363409014
+    second: SpriteAvanceSemanalPapel_10
+  - first:
+      213: -5983655077528358994
+    second: SpriteAvanceSemanalPapel_11
+  - first:
+      213: -1185564941593487157
+    second: SpriteAvanceSemanalPapel_12
+  - first:
+      213: -1766778405927556573
+    second: SpriteAvanceSemanalPapel_13
+  - first:
+      213: -434151425939451990
+    second: SpriteAvanceSemanalPapel_14
+  - first:
+      213: -6640583035540260439
+    second: SpriteAvanceSemanalPapel_15
+  - first:
+      213: 2115613988139970947
+    second: SpriteAvanceSemanalPapel_16
+  - first:
+      213: 3523964965277806462
+    second: SpriteAvanceSemanalPapel_17
+  - first:
+      213: -8456309777201729905
+    second: SpriteAvanceSemanalPapel_18
+  - first:
+      213: 4773641054177721706
+    second: SpriteAvanceSemanalPapel_19
+  - first:
+      213: -9115151697572071662
+    second: SpriteAvanceSemanalPapel_20
+  - first:
+      213: -4962395054930236594
+    second: SpriteAvanceSemanalPapel_21
+  - first:
+      213: 6413798492451381839
+    second: SpriteAvanceSemanalPapel_22
+  - first:
+      213: -3587087470449905316
+    second: SpriteAvanceSemanalPapel_23
+  - first:
+      213: 592097072011511326
+    second: SpriteAvanceSemanalPapel_24
+  - first:
+      213: 1619440402020285902
+    second: SpriteAvanceSemanalPapel_25
+  - first:
+      213: 6418247710044030225
+    second: SpriteAvanceSemanalPapel_26
+  - first:
+      213: -2736586030713113229
+    second: SpriteAvanceSemanalPapel_27
+  - first:
+      213: -860058862816392928
+    second: SpriteAvanceSemanalPapel_28
+  - first:
+      213: -4622254592730279267
+    second: SpriteAvanceSemanalPapel_29
+  - first:
+      213: -9219719281950283111
+    second: SpriteAvanceSemanalPapel_30
+  - first:
+      213: -3408373694554427943
+    second: SpriteAvanceSemanalPapel_31
+  - first:
+      213: 4224398694872079758
+    second: SpriteAvanceSemanalPapel_32
+  - first:
+      213: 1660625502390144380
+    second: SpriteAvanceSemanalPapel_33
+  - first:
+      213: 694620380013092754
+    second: SpriteAvanceSemanalPapel_34
+  - first:
+      213: 8349569880213408568
+    second: SpriteAvanceSemanalPapel_35
+  - first:
+      213: -3080324819925842893
+    second: SpriteAvanceSemanalPapel_36
+  - first:
+      213: 9115570847465657539
+    second: SpriteAvanceSemanalPapel_37
+  - first:
+      213: -3007186262109345862
+    second: SpriteAvanceSemanalPapel_38
+  - first:
+      213: -6209579725241516830
+    second: SpriteAvanceSemanalPapel_39
+  - first:
+      213: 1218045939002100860
+    second: SpriteAvanceSemanalPapel_40
+  - first:
+      213: -1727490268905953242
+    second: SpriteAvanceSemanalPapel_41
+  - first:
+      213: -4372104408980252855
+    second: SpriteAvanceSemanalPapel_42
+  - first:
+      213: 8311217803722449890
+    second: SpriteAvanceSemanalPapel_43
+  - first:
+      213: -2497194008767857507
+    second: SpriteAvanceSemanalPapel_44
+  - first:
+      213: 4921094009425701087
+    second: SpriteAvanceSemanalPapel_45
+  - first:
+      213: 2039050383530082722
+    second: SpriteAvanceSemanalPapel_46
+  - first:
+      213: 3712632016574904200
+    second: SpriteAvanceSemanalPapel_47
+  - first:
+      213: 3847202546728290471
+    second: SpriteAvanceSemanalPapel_48
+  - first:
+      213: 1071551741628704898
+    second: SpriteAvanceSemanalPapel_49
+  - first:
+      213: 1479284032334826503
+    second: SpriteAvanceSemanalPapel_50
+  - first:
+      213: -3533444619755176686
+    second: SpriteAvanceSemanalPapel_51
+  - first:
+      213: -6227393985013266577
+    second: SpriteAvanceSemanalPapel_52
+  - first:
+      213: 7657513790077267648
+    second: SpriteAvanceSemanalPapel_53
+  - first:
+      213: 8288002872264130964
+    second: SpriteAvanceSemanalPapel_54
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_0
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 940
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0806ec9b3d6efd0c0800000000000000
+      internalID: -4548663301591113600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 932
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3c46637165cd1d0800000000000000
+      internalID: -3324687767209458702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_2
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 934
+        width: 78
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d699f1b7e50b8e50800000000000000
+      internalID: 6812545354009515729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_3
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 945
+        width: 4
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2edb082e0131260800000000000000
+      internalID: 7067010805283021507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_4
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 721
+        width: 213
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8416d83f43f76250800000000000000
+      internalID: 5937982155292808332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_5
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 908
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ce5f4c1cbf56bf0800000000000000
+      internalID: -331582187890152390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 735
+        width: 248
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1edea0eb7b4d4560800000000000000
+      internalID: 7299573566460059167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_7
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 925
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f91b1a84648ca360800000000000000
+      internalID: 7182261073097726452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_8
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 923
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32cb41d8f0192630800000000000000
+      internalID: 3902669212942582335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 830
+        width: 8
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4277de0d4fb90420800000000000000
+      internalID: 2596816997838189132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_10
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 832
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67aa0177b4d839d50800000000000000
+      internalID: 6742888422363409014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_11
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 729
+        width: 39
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafa575e869c5fca0800000000000000
+      internalID: -5983655077528358994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 648
+        width: 200
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8d92e87f60c8fe0800000000000000
+      internalID: -1185564941593487157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 730
+        width: 15
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a6bdd86642b77e0800000000000000
+      internalID: -1766778405927556573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_14
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 776
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf462e049599f9f0800000000000000
+      internalID: -434151425939451990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_15
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 763
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9332999e8e7d3a0800000000000000
+      internalID: -6640583035540260439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_16
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 714
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3813ee496bb2c5d10800000000000000
+      internalID: 2115613988139970947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_17
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 729
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f2e441773a7e030800000000000000
+      internalID: 3523964965277806462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_18
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 688
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e6a33af0725aa80800000000000000
+      internalID: -8456309777201729905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_19
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 697
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dfb773f316f3240800000000000000
+      internalID: 4773641054177721706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_20
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 660
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217fa6043d9708180800000000000000
+      internalID: -9115151697572071662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 629
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b6abb4df7022bb0800000000000000
+      internalID: -4962395054930236594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_22
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 636
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4220834fb3620950800000000000000
+      internalID: 6413798492451381839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_23
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 639
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51349963fa183ec0800000000000000
+      internalID: -3587087470449905316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_24
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 321
+        width: 166
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e168bc1662d873800800000000000000
+      internalID: 592097072011511326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_25
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 611
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdb5592778697610800000000000000
+      internalID: 1619440402020285902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_26
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 382
+        width: 242
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11583a57942321950800000000000000
+      internalID: 6418247710044030225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_27
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 349
+        width: 182
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3757c0e0181b50ad0800000000000000
+      internalID: -2736586030713113229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_28
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 596
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02907e365057014f0800000000000000
+      internalID: -860058862816392928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_29
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 523
+        width: 15
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92d4ea00f37adfb0800000000000000
+      internalID: -4622254592730279267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_30
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 447
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99aa886492afc0080800000000000000
+      internalID: -9219719281950283111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_31
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 459
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd2c42ee2603b0d0800000000000000
+      internalID: -3408373694554427943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_32
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 367
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d597d2b3410aa30800000000000000
+      internalID: 4224398694872079758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_33
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 397
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d4be6981abb0710800000000000000
+      internalID: 1660625502390144380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_34
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 344
+        width: 86
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f5d6c2e89c3a900800000000000000
+      internalID: 694620380013092754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_35
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 353
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bcb617191afd370800000000000000
+      internalID: 8349569880213408568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_36
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 316
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334408385ec7045d0800000000000000
+      internalID: -3080324819925842893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_37
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 275
+        width: 90
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4d810b363018e70800000000000000
+      internalID: 9115570847465657539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_38
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 276
+        width: 47
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7a98107045446d0800000000000000
+      internalID: -3007186262109345862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_39
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 48
+        width: 246
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecf280c32423d9a0800000000000000
+      internalID: -6209579725241516830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_40
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 234
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cc35af35e57e010800000000000000
+      internalID: 1218045939002100860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_41
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 66
+        width: 274
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628aae8c0c8b608e0800000000000000
+      internalID: -1727490268905953242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_42
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 259
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94710d5543a2353c0800000000000000
+      internalID: -4372104408980252855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_43
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 261
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e367c9ce80675370800000000000000
+      internalID: 8311217803722449890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_44
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 222
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c782c974f285dd0800000000000000
+      internalID: -2497194008767857507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_45
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 22
+        width: 186
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd82f12bdec3b4440800000000000000
+      internalID: 4921094009425701087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 98
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a14f6d35892c4c10800000000000000
+      internalID: 2039050383530082722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_47
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 94
+        width: 8
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88770b1162be58330800000000000000
+      internalID: 3712632016574904200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_48
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 44
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8c7b83552046530800000000000000
+      internalID: 3847202546728290471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_49
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 46
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288ea36b1aaeede00800000000000000
+      internalID: 1071551741628704898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_50
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 56
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c89356df8778410800000000000000
+      internalID: 1479284032334826503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_51
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 41
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d3afdd6dea6fec0800000000000000
+      internalID: -3533444619755176686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_52
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 52
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6741ee2a2ad399a0800000000000000
+      internalID: -6227393985013266577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_53
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 42
+        width: 71
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cee5388834f44a60800000000000000
+      internalID: 7657513790077267648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAvanceSemanalPapel_54
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 0
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49188ba53b6e40370800000000000000
+      internalID: 8288002872264130964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
