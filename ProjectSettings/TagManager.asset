@@ -8,6 +8,8 @@ TagManager:
   - Floor
   - Paper
   - Roof
+  - BackGround
+  - Grid
   layers:
   - Default
   - TransparentFX

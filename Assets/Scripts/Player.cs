@@ -5,7 +5,7 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     private float playerVelocity;
-    public float jumpForce;
+    private float jumpForce;
     private bool isJumping;
     private Rigidbody2D rb;
     private Vector2 playerDirection;
@@ -22,8 +22,8 @@ public class Player : MonoBehaviour
 
     private void AttributesInitialization()
     {
-        this.playerVelocity = 0.1f;
-        this.jumpForce = 9f;
+        this.playerVelocity = 0.2f;
+        this.jumpForce = 0f;
         this.isJumping = true;
     }
 

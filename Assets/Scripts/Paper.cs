@@ -15,6 +15,7 @@ public class Paper : MonoBehaviour
     {
         if(other.CompareTag("Player"))
         {
+            
             Destroy(gameObject);
         }
     }
