@@ -7,6 +7,8 @@ public class Player : MonoBehaviour
     private float playerVelocity;
     private float jumpForce;
     private bool isJumping;
+    private Rigidbody2D rb;
+    private Vector2 playerDirection;
     [SerializeField] private Animator animator;
     [SerializeField] private SpriteRenderer spriteRenderer;
     [SerializeField] private Rigidbody2D playerRigidBody;
@@ -27,11 +29,15 @@ public class Player : MonoBehaviour
 
     private void Start()
     {
+        rb = GetComponent<Rigidbody2D>();
         AttributesInitialization();
     }
 
     private void Update()
     {
+        float directionY = Input.GetAxisRaw("Vertical");
+        playerDirection = new Vector2(0, directionY).normalized;
+    
         this.WalkAnimations();
         this.PlayerJump();
     }
@@ -52,6 +58,7 @@ public class Player : MonoBehaviour
 
     void FixedUpdate()
     {
+        rb.velocity = new Vector2(0, playerDirection.y * playerVelocity);
         this.PlayerMovements();
     }
   
