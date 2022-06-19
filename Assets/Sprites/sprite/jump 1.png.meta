@@ -1,19 +1,25 @@
 fileFormatVersion: 2
-guid: 12ede785e57f984478a8f4c84f69643a
+guid: 01fa80dff051a1a4fb1b9e8fac18f602
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3669090937425060167
-    second: SteamMan_idle_0
+      213: 2251879231025388370
+    second: jump 1_0
   - first:
-      213: -5660738476914467789
-    second: SteamMan_idle_1
+      213: 7433205329265719020
+    second: jump 1_1
   - first:
-      213: -7408394019313259346
-    second: SteamMan_idle_2
+      213: -7794233420385945655
+    second: jump 1_2
   - first:
-      213: 2165660282698672055
-    second: SteamMan_idle_3
+      213: -1767209262313429290
+    second: jump 1_3
+  - first:
+      213: 9221850289636628292
+    second: jump 1_4
+  - first:
+      213: -1486431447456399615
+    second: jump 1_5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -80,7 +86,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -92,7 +98,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -103,13 +109,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SteamMan_idle_0
+      name: jump 1_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 0
-        width: 20
-        height: 36
+        x: 140
+        y: 106
+        width: 23
+        height: 47
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -117,20 +123,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74163d594ca3be230800000000000000
-      internalID: 3669090937425060167
+      spriteID: 25b195aca38404f10800000000000000
+      internalID: 2251879231025388370
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SteamMan_idle_1
+      name: jump 1_1
       rect:
         serializedVersion: 2
-        x: 51
-        y: 0
-        width: 21
-        height: 36
+        x: 186
+        y: 108
+        width: 23
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -138,20 +144,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 33c902dd8540171b0800000000000000
-      internalID: -5660738476914467789
+      spriteID: ce67c693ddc082760800000000000000
+      internalID: 7433205329265719020
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SteamMan_idle_2
+      name: jump 1_2
       rect:
         serializedVersion: 2
-        x: 99
-        y: 0
-        width: 21
-        height: 36
+        x: 231
+        y: 114
+        width: 26
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -159,20 +165,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eac64ba04e8103990800000000000000
-      internalID: -7408394019313259346
+      spriteID: 9c7fa61fff155d390800000000000000
+      internalID: -7794233420385945655
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SteamMan_idle_3
+      name: jump 1_3
       rect:
         serializedVersion: 2
-        x: 148
-        y: 0
-        width: 20
-        height: 36
+        x: 266
+        y: 110
+        width: 33
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -180,8 +186,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b72d6e8d88fd0e10800000000000000
-      internalID: 2165660282698672055
+      spriteID: 6d6270cf98c9977e0800000000000000
+      internalID: -1767209262313429290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump 1_4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 105
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447df9d9af79aff70800000000000000
+      internalID: 9221850289636628292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump 1_5
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 103
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f346759722f5be0800000000000000
+      internalID: -1486431447456399615
       vertices: []
       indices: 
       edges: []
