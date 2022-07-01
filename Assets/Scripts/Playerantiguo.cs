@@ -23,7 +23,7 @@ public class Player : MonoBehaviour
     private void AttributesInitialization()
     {
         this.playerVelocity = 0.2f;
-        this.jumpForce = 0f;
+        this.jumpForce = 9f;
         this.isJumping = true;
     }
 
@@ -66,7 +66,7 @@ public class Player : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space) && !isJumping)
         {
-            playerRigidBody.AddForce(new Vector3(0f, jumpForce, 0f), ForceMode2D.Impulse);
+            playerRigidBody.AddForce(new Vector3(9f, jumpForce, 9f), ForceMode2D.Impulse);
         }
     }
 
