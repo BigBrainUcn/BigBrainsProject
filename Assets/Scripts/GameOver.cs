@@ -7,6 +7,7 @@ using UnityEngine.SceneManagement;
 public class GameOver : MonoBehaviour
 {
     public GameObject gameOver;
+    public Player thePlayer;
     // Start is called before the first frame update
     void Start()
     {
@@ -16,8 +17,10 @@ public class GameOver : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(GameObject.FindGameObjectWithTag("Player")==null){
+        if(thePlayer.health == 0){
             gameOver.SetActive(true);
+            Destroy(thePlayer.gameObject);
+            thePlayer.health = 3;
         }
     }
     public void Restart(){

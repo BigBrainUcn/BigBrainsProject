@@ -18,7 +18,7 @@ public class Obstaclee : MonoBehaviour
 
         }
         else if(collision.tag ==  "Player"){
-            Destroy(player.gameObject);
+            Destroy(this.gameObject);
         }
     }
 }

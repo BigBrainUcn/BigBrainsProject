@@ -801,6 +801,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameOver: {fileID: 1782486095}
+  thePlayer: {fileID: 0}
 --- !u!1 &478038265
 GameObject:
   m_ObjectHideFlags: 0
@@ -2387,6 +2388,7 @@ GameObject:
   - component: {fileID: 1342447187}
   - component: {fileID: 1342447191}
   - component: {fileID: 1342447192}
+  - component: {fileID: 1342447193}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -2507,6 +2509,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gameManager: {fileID: 450981642}
   puntos: {fileID: 1571719020}
+--- !u!114 &1342447193
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1342447186}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 163b0efaa93f04048bd376f832f5a25c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameOver: {fileID: 1782486095}
+  thePlayer: {fileID: 628931988}
 --- !u!1 &1361311897
 GameObject:
   m_ObjectHideFlags: 0
@@ -3067,7 +3083,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1567521178}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1342447193}
+        m_TargetAssemblyTypeName: GameOver, Assembly-CSharp
+        m_MethodName: Restart
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1567521178
 MonoBehaviour:
   m_ObjectHideFlags: 0
