@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class MenuPause : MonoBehaviour
 {
 
-    [SerializeField] private GameObject botonPause;
+    
 
     [SerializeField] private GameObject menuPause;
 
@@ -31,7 +31,6 @@ public class MenuPause : MonoBehaviour
    {
 
     Time.timeScale = 0f;
-    botonPause.SetActive(false);
     menuPause.SetActive(true);
 
    }
@@ -40,7 +39,6 @@ public class MenuPause : MonoBehaviour
    {
     
     Time.timeScale = 1f;
-    botonPause.SetActive(true);
     menuPause.SetActive(false);
 
    }
