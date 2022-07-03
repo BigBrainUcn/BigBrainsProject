@@ -8,23 +8,29 @@ public class GameOver : MonoBehaviour
 {
     public GameObject gameOver;
     public Player thePlayer;
-    // Start is called before the first frame update
+    public ScoreManager sm;
+    
+
     void Start()
     {
-        
+        thePlayer = FindObjectOfType<Player>();
+        sm = FindObjectOfType<ScoreManager>();
     }
 
-    // Update is called once per frame
+    
     void Update()
     {
         if(thePlayer.health == 0){
             gameOver.SetActive(true);
             Destroy(thePlayer.gameObject);
-            thePlayer.health = 3;
+            sm.scoreIncreasing = false;
+
         }
     }
     public void Restart(){
+        
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-
+        thePlayer.health = 3;
+        sm.scoreIncreasing = true;
     }
 }
