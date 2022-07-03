@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: 0b1a5cf9ba30b4a4fa3ab01aaaeae2f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7455959677955862356
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_0
+  - first:
+      213: -4294487030875566186
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_1
+  - first:
+      213: -2976014399448832935
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_2
+  - first:
+      213: -6599033847003262002
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_3
+  - first:
+      213: 8812432485461450525
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_4
+  - first:
+      213: 8504256820033653077
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_5
+  - first:
+      213: -2637255968032614160
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_6
+  - first:
+      213: -936199401588779785
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_7
+  - first:
+      213: 3370797337897682852
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_8
+  - first:
+      213: 4354620745011929800
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_9
+  - first:
+      213: 6164699827779486977
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_10
+  - first:
+      213: 1287109133429873894
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_11
+  - first:
+      213: 7182692989502263487
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_12
+  - first:
+      213: -2584827340242720721
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_13
+  - first:
+      213: -3534631563861552275
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_14
+  - first:
+      213: 4638876210882764723
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_15
+  - first:
+      213: -3541697120249056330
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_16
+  - first:
+      213: -1917964931045207291
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_17
+  - first:
+      213: -7260252903349945466
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_18
+  - first:
+      213: 5237917544167668651
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_19
+  - first:
+      213: -2259771328069484540
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_20
+  - first:
+      213: -1957275341355506065
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_21
+  - first:
+      213: -7683159157232987329
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_22
+  - first:
+      213: -9106833213480783347
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_23
+  - first:
+      213: 3189275706531356835
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_24
+  - first:
+      213: 3187138957430332757
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_25
+  - first:
+      213: -5169957169200123607
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_26
+  - first:
+      213: 4807138076412958893
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_27
+  - first:
+      213: 4086442971998188232
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_28
+  - first:
+      213: -8784339085929530763
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_29
+  - first:
+      213: -3061232352362187579
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_30
+  - first:
+      213: 2051132968088418864
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_31
+  - first:
+      213: -147503305305377316
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_32
+  - first:
+      213: -898633586930373801
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_33
+  - first:
+      213: -1285940019198341268
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_34
+  - first:
+      213: 3924618394109695934
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 401
+        width: 77
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca01ecf1d2c178890800000000000000
+      internalID: -7455959677955862356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 401
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fc3207ccae664c0800000000000000
+      internalID: -4294487030875566186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 401
+        width: 77
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954a76adba213b6d0800000000000000
+      internalID: -2976014399448832935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_3
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 401
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec35798eda58b64a0800000000000000
+      internalID: -6599033847003262002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_4
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 401
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fda0fb7ac0c4a70800000000000000
+      internalID: 8812432485461450525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_5
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 401
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5598cc43580350670800000000000000
+      internalID: 8504256820033653077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_6
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 315
+        width: 56
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f813ab7ba5966bd0800000000000000
+      internalID: -2637255968032614160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 315
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f41e5dba93f103f0800000000000000
+      internalID: -936199401588779785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_8
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 315
+        width: 55
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7493fc15a77ce20800000000000000
+      internalID: 3370797337897682852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 315
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2abfdee78be6c30800000000000000
+      internalID: 4354620745011929800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 315
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10545b5d4d96d8550800000000000000
+      internalID: 6164699827779486977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_11
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 315
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec9f3dffeabcd110800000000000000
+      internalID: 1287109133429873894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 228
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb098f9e73d0ea360800000000000000
+      internalID: 7182692989502263487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_13
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 228
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f286d13aa39d02cd0800000000000000
+      internalID: -2584827340242720721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_14
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 228
+        width: 53
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d631628e15772fec0800000000000000
+      internalID: -3534631563861552275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_15
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 228
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf5da20659906040800000000000000
+      internalID: 4638876210882764723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 228
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3f78ddb3d59dec0800000000000000
+      internalID: -3541697120249056330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_17
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 228
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503d4699e050265e0800000000000000
+      internalID: -1917964931045207291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 145
+        width: 51
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bf35c63766e3b90800000000000000
+      internalID: -7260252903349945466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 145
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab76e63142d0b840800000000000000
+      internalID: 5237917544167668651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 145
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4004ecc23fda3a0e0800000000000000
+      internalID: -2259771328069484540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 145
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66afd6727c56d4e0800000000000000
+      internalID: -1957275341355506065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_22
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 145
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f339650247fef5590800000000000000
+      internalID: -7683159157232987329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_23
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 145
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02bfb141770e9180800000000000000
+      internalID: -9106833213480783347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 69
+        width: 86
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0a59a8b55924c20800000000000000
+      internalID: 3189275706531356835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_25
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 69
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d917fdefdfa3c20800000000000000
+      internalID: 3187138957430332757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_26
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 69
+        width: 86
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921b7d1a85f9048b0800000000000000
+      internalID: -5169957169200123607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_27
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 69
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da859d67c9266b240800000000000000
+      internalID: 4807138076412958893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_28
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 69
+        width: 86
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2f7dc6b36f5b830800000000000000
+      internalID: 4086442971998188232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 69
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a379c8422c71680800000000000000
+      internalID: -8784339085929530763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4b48605615485d0800000000000000
+      internalID: -3061232352362187579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 4
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ab00e2196177c10800000000000000
+      internalID: 2051132968088418864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_32
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 4
+        width: 77
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5b31c7686f3fdf0800000000000000
+      internalID: -147503305305377316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_33
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 4
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ba7cb83896783f0800000000000000
+      internalID: -898633586930373801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_34
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 4
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f4931ad5c672ee0800000000000000
+      internalID: -1285940019198341268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Mosquito_35
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 4
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb75fdbc2ab077630800000000000000
+      internalID: 3924618394109695934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

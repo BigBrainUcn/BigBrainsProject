@@ -10,6 +10,7 @@ TagManager:
   - Roof
   - BackGround
   - Grid
+  - Border
   layers:
   - Default
   - TransparentFX
