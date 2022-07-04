@@ -33,4 +33,10 @@ public class GameOver : MonoBehaviour
         thePlayer.health = 3;
         sm.scoreIncreasing = true;
     }
+
+    public void BackToMainMenu()
+    {
+
+       SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
+    }
 }
