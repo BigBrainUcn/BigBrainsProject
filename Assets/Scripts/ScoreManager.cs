@@ -7,6 +7,7 @@ public class ScoreManager : MonoBehaviour
 {
     
     public TextMeshProUGUI scoreText;
+    public TextMeshProUGUI highScoreText;
 
     public float scoreCount;
     public float hiScoreCount;
@@ -42,6 +43,7 @@ public class ScoreManager : MonoBehaviour
        } 
 
         scoreText.text = "Score: " + Mathf.Round(scoreCount).ToString();
+        highScoreText.text = "HighScore: " + Mathf.Round(hiScoreCount).ToString();
         
 
 
